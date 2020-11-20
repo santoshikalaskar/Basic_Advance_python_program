@@ -1,0 +1,13 @@
+{
+  "people": [
+    {
+      "First_name": "Deep",
+      "Last_name": "Sarkar",
+      "Mobile_no": 7023536113,
+      "address": "7/9 gaur city",
+      "city": "Greater Noida",
+      "state": "UP",
+      "zip_code": 775686
+    }
+  ]
+}

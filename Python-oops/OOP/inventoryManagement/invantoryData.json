@@ -1,0 +1,28 @@
+{
+  "rice": [
+    {
+      "Type": "basmati",
+      "Weight": 14.0,
+      "Price_per_kg": 120.0
+    }
+  ],
+  "pulses": [
+    {
+      "Type": "type A",
+      "Weight": 45.0,
+      "Price_per_kg": 13.0
+    }
+  ],
+  "wheat": [
+    {
+      "Type": "type c",
+      "Weight": 54.0,
+      "Price_per_kg": 23.0
+    },
+    {
+      "Type": "type c",
+      "Weight": 45.0,
+      "Price_per_kg": 12.0
+    }
+  ]
+}
